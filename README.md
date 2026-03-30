@@ -85,7 +85,7 @@ with `>` and `>>`, `date` command, alias concept demonstrated via comment.
 
 ### Step 1 — Clone this repository
 ```bash
-git clone https://github.com/nameermk-24bai10892/oss-audit-24BAI10892.git
+git clone https://github.com/nameer24bai10892-gif/oss-audit-24BAI10892
 cd oss-audit-24BAI10892
 ```
 
