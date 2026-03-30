@@ -131,7 +131,7 @@ chmod +x script5_manifesto.sh
 
 | Dependency | Purpose |
 |------------|---------|
-| `bash` | Shell interpreter — required to run all scripts |
+| `bash` | Shell interpreter, required to run all scripts |
 | `git` | Required for Script 2 (package inspection) |
 | `coreutils` | Provides `du`, `ls`, `date`, `whoami`, `cut` |
 | `grep` | Used for keyword searching in Scripts 2 and 4 |
